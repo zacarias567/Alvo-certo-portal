@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1779903194730,
+      "tag": "0000_last_red_skull",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1779903837881,
+      "tag": "0001_material_secret_warriors",
+      "breakpoints": true
+    }
+  ]
+}
